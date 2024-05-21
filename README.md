@@ -1,4 +1,4 @@
-PASOS A SEGUIR PARA LA CONFIGURACION Y EJECCUCION DE JADE
+#PASOS A SEGUIR PARA LA CONFIGURACION Y EJECCUCION DE JADE
 
 <h1 style="text-align:center;"><font color="RED"> █ </font><font color="yellow"> █ </font><font color="green"> █ </font></h1>
  
